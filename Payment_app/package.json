@@ -1,0 +1,14 @@
+{
+    "name": "payment",
+    "version": "1.0.0",
+    "main": "main.js",
+    "devDependencies": {
+        "electron": "^7.1.7"
+    },
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "mysql": "^2.17.1"
+    }
+}
